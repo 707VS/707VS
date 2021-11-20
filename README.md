@@ -1,7 +1,7 @@
 - 👋 Hi, i am Ariel Harim, 20y Brazilian 
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on projects open source for boost my learning
+- 💞️ I’m looking to collaborate on projects open source to boost my learning
 - 📫 How to reach me: kurahashi4242@gmail.com, WPP:(51)98673-0530
 
 <!---

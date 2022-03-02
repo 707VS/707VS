@@ -1,4 +1,4 @@
-- 👋 Hi, i am Ariel Harim, 20y Brazilian 
+- 👋 Hi, i am Ariel Harim, 21y Brazilian 
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on projects open source to boost my learning

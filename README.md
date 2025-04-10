@@ -6,4 +6,4 @@
 🏋️‍♂️ Fã de academia, cubo mágico e Dark Souls
 
 <!-- GITHUB STATS FROM anuraghazra -->
-[![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=707VS&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ariel GitHub stats](https://github-readme-stats.vercel.app/api?username=707VS&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
